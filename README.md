@@ -32,7 +32,7 @@ BookMySlot is an online appointment booking system that allows users to schedule
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-1. Fork the repository: https://github.com/[your-username]/bookmyslot/fork
+1. Fork the repository: https://github.com/HOLINHED/bookmyslot/fork
 2. Create a new branch for your changes: `git checkout -b feature/my-new-feature`
 3. Make your changes and commit them: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin feature/my-new-feature`
