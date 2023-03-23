@@ -1,0 +1,29 @@
+{
+  "name": "bookmyslot",
+  "version": "1.0.0",
+  "description": "BookMySlot is an online appointment booking system that allows users to schedule appointments with service providers. The system is designed to simplify the appointment scheduling process for users and service providers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HOLINHED/bookmyslot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HOLINHED/bookmyslot/issues"
+  },
+  "homepage": "https://github.com/HOLINHED/bookmyslot#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.2",
+    "nodemailer": "^6.9.1",
+    "stripe": "^11.15.0"
+  }
+}
